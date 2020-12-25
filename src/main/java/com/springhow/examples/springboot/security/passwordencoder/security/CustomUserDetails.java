@@ -1,6 +1,6 @@
-package com.springhow.examples.springboot.security.databaseuserdetail.security;
+package com.springhow.examples.springboot.security.passwordencoder.security;
 
-import com.springhow.examples.springboot.security.databaseuserdetail.domain.entities.UserAccount;
+import com.springhow.examples.springboot.security.passwordencoder.domain.entities.UserAccount;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

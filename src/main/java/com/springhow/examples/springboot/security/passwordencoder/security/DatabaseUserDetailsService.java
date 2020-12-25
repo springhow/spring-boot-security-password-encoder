@@ -1,7 +1,7 @@
-package com.springhow.examples.springboot.security.databaseuserdetail.security;
+package com.springhow.examples.springboot.security.passwordencoder.security;
 
-import com.springhow.examples.springboot.security.databaseuserdetail.domain.entities.UserAccount;
-import com.springhow.examples.springboot.security.databaseuserdetail.domain.repositories.UserAccountRepository;
+import com.springhow.examples.springboot.security.passwordencoder.domain.entities.UserAccount;
+import com.springhow.examples.springboot.security.passwordencoder.domain.repositories.UserAccountRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

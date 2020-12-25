@@ -1,4 +1,4 @@
-package com.springhow.examples.springboot.security.databaseuserdetail.domain.entities;
+package com.springhow.examples.springboot.security.passwordencoder.domain.entities;
 
 import lombok.Data;
 
